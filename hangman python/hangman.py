@@ -32,7 +32,7 @@ for i in range (7):
 
 #setup game variables
 hangman_status=0 # tells us which image we wanna draw on the output screen
-words=["SAHIL","PYTHON","APEX","KARTIKA","UMAIMA","YASH","AISHWARYA","HRISHIK","PYGAME"]
+words=["SAHIL","PYTHON","APEKSHA","KARTIKA","SWARANGI","UMAIMA","YASH","AISHWARYA","HRISHIK","PYGAME","ENGINEER","PROGRAM","ASSIGNMENT","JAY","GAURAV","AANCHAL"]
 WORD=random.choice(words) #keyword
 guessed=[] #repr. letters guessed by the user so far
 
